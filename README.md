@@ -1,5 +1,7 @@
 # MosaCD
 
+This is the accompanying repository for *Improving constraint-based discovery with robust propagation and reliable LLM priors*, NeurIPS 2026.
+
 MosaCD combines conditional-independence (CI) skeleton discovery with LLM edge
 votes, cross-order consistency and CI/cycle seed filtering, then interleaved
 propagation and least-conflict orientation. Vote-based completion orients any
