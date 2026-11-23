@@ -1,0 +1,13 @@
+{
+  "description": "An illustrative lung-disease Bayesian-network example with binary variables (0=no, 1=yes). These are example samples, not clinical observations.",
+  "variables": {
+    "visit_to_asia": "Whether the person has recently visited Asia.",
+    "smoking": "Whether the person smokes.",
+    "tuberculosis": "Whether the person has tuberculosis.",
+    "lung_cancer": "Whether the person has lung cancer.",
+    "bronchitis": "Whether the person has bronchitis.",
+    "either": "Whether tuberculosis or lung cancer is present.",
+    "positive_chest_xray": "Whether the chest X-ray is positive.",
+    "dyspnoea": "Whether the person experiences shortness of breath."
+  }
+}
